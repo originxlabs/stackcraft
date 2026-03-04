@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" shape-rendering="geometricPrecision">
+  <!-- Rounded background -->
+  <rect width="32" height="32" rx="7" fill="#3B6DF0"/>
+  <!-- Top diamond layer — solid, bold, readable at 16px -->
+  <path d="M16 5 L27 11 L16 17 L5 11 Z" fill="white"/>
+  <!-- Middle layer -->
+  <path d="M5 17 L16 23 L27 17" stroke="white" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  <!-- Bottom layer -->
+  <path d="M5 22.5 L16 28.5 L27 22.5" stroke="white" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.3"/>
+</svg>
